@@ -1,1 +1,2 @@
-// LIVEnts token server skeleton (LiveKit + Mux egress helpers). See README for full code.
+// Livents token server skeleton v13.1 - LiveKit + Mux egress helpers (skeleton)
+console.log('Livents token server v13.1');
